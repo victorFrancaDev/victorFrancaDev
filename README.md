@@ -5,6 +5,7 @@
 <a href="https://www.linkedin.com/in/victorhugofrança/" target="_blank"><img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/victorhugofrança/" target="_blank"><img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/victorhugofrança/" target="_blank"><img src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/victorhugofrança/" target="_blank"><img src="https://img.shields.io/badge/python%20-%23092E20.svg?&style=for-the-badge&logo=python&logoColor=white" /></a>
 
 ### Hello 👋
 
